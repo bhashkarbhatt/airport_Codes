@@ -6,6 +6,1055 @@
 		{
 			"airport":"Canada Airports Added"
 		},
+		
+  {
+    "airport": "Abbotsford( YXX ), BC, Canada"
+  },
+  {
+    "airport": "Akulivik( AKV ), QC, Canada"
+  },
+  {
+    "airport": "Aldershot( XLY ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Alexandria( XFS ), ON- Rail service, Canada"
+  },
+  {
+    "airport": "Alma( YTF ), QC, Canada"
+  },
+  {
+    "airport": "Anahim( YAA ), Lake, BC, Canada"
+  },
+  {
+    "airport": "Angling( YAX ), Lake, ON, Canada"
+  },
+  {
+    "airport": "Arctic( YAB ), Bay, NU, Canada"
+  },
+  {
+    "airport": "Arviat( YEK ), NU, Canada"
+  },
+  {
+    "airport": "Attawapiskat( YAT ), ON, Canada"
+  },
+  {
+    "airport": "Aupaluk( YPJ ), QC, Canada"
+  },
+  {
+    "airport": "Bagotville( YBG ), QC, Canada"
+  },
+  {
+    "airport": "Baie( YBC ), Comeau, QC, Canada"
+  },
+  {
+    "airport": "Baker( YBK ), Lake, NU, Canada"
+  },
+  {
+    "airport": "Bathhurst( ZBF ), NB, Canada"
+  },
+  {
+    "airport": "Bearskin( XBE ), Lake, ON, Canada"
+  },
+  {
+    "airport": "Bella( ZEL ), Bella, BC, Canada"
+  },
+  {
+    "airport": "Bella( QBC ), Coola, BC, Canada"
+  },
+  {
+    "airport": "Belleville( XVV ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Berens( YBV ), River, MB, Canada"
+  },
+  {
+    "airport": "Big( YTL ), Trout, ON, Canada"
+  },
+  {
+    "airport": "Black( YBI ), Tickle, NL, Canada"
+  },
+  {
+    "airport": "Blanc( YBX ), Sablon, QC, Canada"
+  },
+  {
+    "airport": "Bonaventure( YVB ), QC, Canada"
+  },
+  {
+    "airport": "Brampton( XPN ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Brandon( YBR ), MB, Canada"
+  },
+  {
+    "airport": "Brantford( XFV ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Brochet( YBT ), MB, Canada"
+  },
+  {
+    "airport": "Brockville( XBR ), ON, Canada"
+  },
+  {
+    "airport": "Burns( YPZ ), Lake, BC, Canada"
+  },
+  {
+    "airport": "Calgary( YYC ), AB, Canada"
+  },
+  {
+    "airport": "Cambridge( YCB ), Bay, NU, Canada"
+  },
+  {
+    "airport": "Campbell( YBL ), River, BC, Canada"
+  },
+  {
+    "airport": "Campbellton( XAZ ), NB - Rail service, Canada"
+  },
+  {
+    "airport": "Cape( YTE ), Dorset, NU, Canada"
+  },
+  {
+    "airport": "Capreol( XAW ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Cartwright( YRF ), NL, Canada"
+  },
+  {
+    "airport": "Casselman( XZB ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Castlegar( YCG ), BC, Canada"
+  },
+  {
+    "airport": "Cat( YAC ), Lake, ON, Canada"
+  },
+  {
+    "airport": "Chambord( XCI ), QC - Rail service, Canada"
+  },
+  {
+    "airport": "Chandler( XDL ), QC - Rail service, Canada"
+  },
+  {
+    "airport": "Chapleau( YLD ), ON, Canada"
+  },
+  {
+    "airport": "Charlottetown( YHG ), NL, Canada"
+  },
+  {
+    "airport": "Charlottetown( YYG ), PE, Canada"
+  },
+  {
+    "airport": "Chatham( XCM ), ON, Canada"
+  },
+  {
+    "airport": "Chemainus( XHS ), BC - Rail service, Canada"
+  },
+  {
+    "airport": "Chesterfield( YCS ), Inlet, NU, Canada"
+  },
+  {
+    "airport": "Chevery( YHR ), QC, Canada"
+  },
+  {
+    "airport": "Chibougamau( YMT ), QC, Canada"
+  },
+  {
+    "airport": "Chisasibi( YKU ), QC, Canada"
+  },
+  {
+    "airport": "Churchill( ZUM ), Falls, NL, Canada"
+  },
+  {
+    "airport": "Churchill( XAD ), MB - Rail service, Canada"
+  },
+  {
+    "airport": "Churchill( YYQ ), MB, Canada"
+  },
+  {
+    "airport": "Clyde( YCY ), River, NU, Canada"
+  },
+  {
+    "airport": "Cobourg( XGJ ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Colville( YCK ), Lake, NT, Canada"
+  },
+  {
+    "airport": "Comox( YQQ ), BC, Canada"
+  },
+  {
+    "airport": "Coral( YZS ), Harbour, NU, Canada"
+  },
+  {
+    "airport": "Cornwall( YCC ), ON, Canada"
+  },
+  {
+    "airport": "Coteau( XGK ), QC - Rail service, Canada"
+  },
+  {
+    "airport": "Courtenay( YCA ), BC, Canada"
+  },
+  {
+    "airport": "Cranbrook( YXC ), BC, Canada"
+  },
+  {
+    "airport": "Cross( YCR ), Lake, MB, Canada"
+  },
+  {
+    "airport": "Dauphin( YDN ), MB, Canada"
+  },
+  {
+    "airport": "Davis( YDI ), Inlet, NL, Canada"
+  },
+  {
+    "airport": "Dawson( YDA ), City, YT, Canada"
+  },
+  {
+    "airport": "Dawson( YDQ ), Creek, BC, Canada"
+  },
+  {
+    "airport": "Deer( YDF ), Lake, NL, Canada"
+  },
+  {
+    "airport": "Deer( YVZ ), Lake, ON, Canada"
+  },
+  {
+    "airport": "Deline( YWJ ), NT, Canada"
+  },
+  {
+    "airport": "Drummondville( XDM ), QC - Rail service, Canada"
+  },
+  {
+    "airport": "Dryden( YHD ), ON, Canada"
+  },
+  {
+    "airport": "Duncan/Quam( DUQ ), BC, Canada"
+  },
+  {
+    "airport": "East( ZEM ), Main, QC, Canada"
+  },
+  {
+    "airport": "Edmonton( XZL ), AB - Rail service, Canada"
+  },
+  {
+    "airport": "Edmonton( YEG ), AB - International, Canada"
+  },
+  {
+    "airport": "Esquimalt( YPF ), BC, Canada"
+  },
+  {
+    "airport": "Flin( YFO ), Flon, MB, Canada"
+  },
+  {
+    "airport": "Fond( ZFD ), du Lac, SK, Canada"
+  },
+  {
+    "airport": "Fort( YFA ), Albany, ON, Canada"
+  },
+  {
+    "airport": "Fort( YPY ), Chipewyan, AB, Canada"
+  },
+  {
+    "airport": "Fort( YAG ), Frances, ON, Canada"
+  },
+  {
+    "airport": "Fort( YGH ), Good Hope, NT, Canada"
+  },
+  {
+    "airport": "Fort( YFH ), Hope, ON, Canada"
+  },
+  {
+    "airport": "Fort( YMM ), Mcmurray, AB, Canada"
+  },
+  {
+    "airport": "Fort( YYE ), Nelson, BC, Canada"
+  },
+  {
+    "airport": "Fort( YER ), Severn, ON, Canada"
+  },
+  {
+    "airport": "Fort( YFS ), Simpson, NT, Canada"
+  },
+  {
+    "airport": "Fort( YSM ), Smith, NT, Canada"
+  },
+  {
+    "airport": "Fort( YXJ ), St John, BC, Canada"
+  },
+  {
+    "airport": "Fox( YFX ), Harbour/St Lewis, NL, Canada"
+  },
+  {
+    "airport": "Fredericton( XFC ), Junction, NB - Rail service, Canada"
+  },
+  {
+    "airport": "Fredericton( YFC ), NB, Canada"
+  },
+  {
+    "airport": "Gander( YQX ), NL, Canada"
+  },
+  {
+    "airport": "Gaspe( XDD ), QC - Rail service, Canada"
+  },
+  {
+    "airport": "Gaspe( YGP ), QC, Canada"
+  },
+  {
+    "airport": "Georgetown( XHM ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Gethsemani( ZGS ), QC, Canada"
+  },
+  {
+    "airport": "Gillam( YGX ), MB, Canada"
+  },
+  {
+    "airport": "Gillies( YGB ), Bay, BC, Canada"
+  },
+  {
+    "airport": "Gjoa( YHK ), Haven, NU, Canada"
+  },
+  {
+    "airport": "Glencoe( XZC ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Gods( YGO ), Narrows, MB, Canada"
+  },
+  {
+    "airport": "Gods( ZGI ), River, MB, Canada"
+  },
+  {
+    "airport": "Goose( YYR ), Bay, NL, Canada"
+  },
+  {
+    "airport": "Grande( YQU ), Prairie, AB, Canada"
+  },
+  {
+    "airport": "Grimsby( XGY ), ON, Canada"
+  },
+  {
+    "airport": "Grise( YGZ ), Fiord, NU, Canada"
+  },
+  {
+    "airport": "Guelph( XIA ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Halifax( XDG ), NS - Rail service, Canada"
+  },
+  {
+    "airport": "Halifax( YHZ ), NS - International, Canada"
+  },
+  {
+    "airport": "Hall( YUX ), Beach, NU, Canada"
+  },
+  {
+    "airport": "Hamilton( YHM ), ON, Canada"
+  },
+  {
+    "airport": "Havre( YGV ), St Pierre, QC, Canada"
+  },
+  {
+    "airport": "Hay( YHY ), River, NT, Canada"
+  },
+  {
+    "airport": "Hervey( XDU ), QC - Rail service, Canada"
+  },
+  {
+    "airport": "High( YOJ ), Level, AB, Canada"
+  },
+  {
+    "airport": "Holman( YHI ), NT, Canada"
+  },
+  {
+    "airport": "Hopedale( YHO ), NL, Canada"
+  },
+  {
+    "airport": "Houston( ZHO ), BC - Bus station, Canada"
+  },
+  {
+    "airport": "Hudson( YHB ), Bay, SK, Canada"
+  },
+  {
+    "airport": "Igloolik( YGT ), NU, Canada"
+  },
+  {
+    "airport": "Iles( YGR ), De La Madeleine, QC, Canada"
+  },
+  {
+    "airport": "Ilford( ILF ), MB, Canada"
+  },
+  {
+    "airport": "Ingersoll( XIB ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Inukjuak( YPH ), QC, Canada"
+  },
+  {
+    "airport": "Inuvik( YEV ), NT, Canada"
+  },
+  {
+    "airport": "Iqaluit( YFB ), NU, Canada"
+  },
+  {
+    "airport": "Island( YIV ), Lake/Garden Hill, Canada"
+  },
+  {
+    "airport": "Ivujivik( YIK ), QC, Canada"
+  },
+  {
+    "airport": "Jasper( XDH ), AB - Rail service, Canada"
+  },
+  {
+    "airport": "Joliette( XJL ), QC - Rail service, Canada"
+  },
+  {
+    "airport": "Jonquiere( XJQ ), QC - Rail service, Canada"
+  },
+  {
+    "airport": "Kamloops( YKA ), BC, Canada"
+  },
+  {
+    "airport": "Kangiqsualujjuaq( XGR ), QC, Canada"
+  },
+  {
+    "airport": "Kangiqsujuaq( YWB ), QC, Canada"
+  },
+  {
+    "airport": "Kangirsuk( YKG ), QC, Canada"
+  },
+  {
+    "airport": "Kapuskasing( YYU ), ON, Canada"
+  },
+  {
+    "airport": "Kasabonika( XKS ), ON, Canada"
+  },
+  {
+    "airport": "Kaschechewan( ZKE ), ON, Canada"
+  },
+  {
+    "airport": "Keewaywin( KEW ), ON, Canada"
+  },
+  {
+    "airport": "Kegaska( ZKG ), QC, Canada"
+  },
+  {
+    "airport": "Kelowna( YLW ), BC, Canada"
+  },
+  {
+    "airport": "Kenora( YQK ), ON, Canada"
+  },
+  {
+    "airport": "Kimmirut/Lake( YLC ), Harbour NU, Canada"
+  },
+  {
+    "airport": "Kingfisher( KIF ), Lake, ON, Canada"
+  },
+  {
+    "airport": "Kingston( XEG ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Kingston( YGK ), ON - Norman Rogers Airport, Canada"
+  },
+  {
+    "airport": "Kitchener( YKF ), ON, Canada"
+  },
+  {
+    "airport": "Klemtu( YKT ), BC, Canada"
+  },
+  {
+    "airport": "Kugaaruk( YBB ), NU, Canada"
+  },
+  {
+    "airport": "Kugluktuk/Coppermine( YCO ), NU, Canada"
+  },
+  {
+    "airport": "Kuujjuaq( YVP ), QC, Canada"
+  },
+  {
+    "airport": "Kuujjuarapik( YGW ), QC, Canada"
+  },
+  {
+    "airport": "La( YGL ), Grande, QC, Canada"
+  },
+  {
+    "airport": "La( YVC ), Ronge, SK, Canada"
+  },
+  {
+    "airport": "La( ZLT ), Tabatiere, QC, Canada"
+  },
+  {
+    "airport": "La( YLQ ), Tuque, QC, Canada"
+  },
+  {
+    "airport": "Lac( XLB ), Brochet, MB, Canada"
+  },
+  {
+    "airport": "Lac( XEE ), Edouard, QC - Rail service, Canada"
+  },
+  {
+    "airport": "Ladysmith( XEH ), BC - Rail service, Canada"
+  },
+  {
+    "airport": "Langford( XEJ ), BC - Rail service, Canada"
+  },
+  {
+    "airport": "Lansdowne( YLH ), House, ON, Canada"
+  },
+  {
+    "airport": "Leaf( YLR ), Rapids, MB, Canada"
+  },
+  {
+    "airport": "Lethbridge( YQL ), AB, Canada"
+  },
+  {
+    "airport": "Lloydminister( YLL ), AB, Canada"
+  },
+  {
+    "airport": "London( XDQ ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "London( YXU ), ON - Municipal Airport, Canada"
+  },
+  {
+    "airport": "Lutselke/Snowdrift( YSG ), NT, Canada"
+  },
+  {
+    "airport": "Mary's( YMH ), Harbour, NL, Canada"
+  },
+  {
+    "airport": "Maxville( XID ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Medicine( YXH ), Hat, AB, Canada"
+  },
+  {
+    "airport": "Melville( XEK ), SK - Rail service, Canada"
+  },
+  {
+    "airport": "Miramichi( XEY ), NB - Rail service, Canada"
+  },
+  {
+    "airport": "Moncton( XDP ), NB - Rail service, Canada"
+  },
+  {
+    "airport": "Moncton( YQM ), NB - Airport, Canada"
+  },
+  {
+    "airport": "Mont( YYY ), Joli, QC, Canada"
+  },
+  {
+    "airport": "Montreal( XAX ), QC - Dorval Rail service, Canada"
+  },
+  {
+    "airport": "Montreal( YMY ), QC - Downtown Rail service, Canada"
+  },
+  {
+    "airport": "Montreal( XLM ), QC - St Lambert Rail service, Canada"
+  },
+  {
+    "airport": "Montreal( YMQ ), QC - all airports, Canada"
+  },
+  {
+    "airport": "Montreal( YUL ), QC - Dorval, Canada"
+  },
+  {
+    "airport": "Montreal( YMX ), QC - Mirabel, Canada"
+  },
+  {
+    "airport": "Moosonee( YMO ), ON, Canada"
+  },
+  {
+    "airport": "Muskrat( MSA ), Dam, ON, Canada"
+  },
+  {
+    "airport": "Nain( YDP ), NL, Canada"
+  },
+  {
+    "airport": "Nakina( YQN ), ON, Canada"
+  },
+  {
+    "airport": "Nanaimo( ZNA ), BC - Harbour Airport, Canada"
+  },
+  {
+    "airport": "Nanaimo( YCD ), BC - Cassidy Airport, Canada"
+  },
+  {
+    "airport": "Nanisivik( YSR ), NU, Canada"
+  },
+  {
+    "airport": "Napanee( XIF ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Natashquan( YNA ), QC, Canada"
+  },
+  {
+    "airport": "Nemiscau( YNS ), QC, Canada"
+  },
+  {
+    "airport": "New( XEL ), Carlisle, QC - Rail service, Canada"
+  },
+  {
+    "airport": "New( XEM ), Richmond, QC - Rail service, Canada"
+  },
+  {
+    "airport": "Niagara( XLV ), Falls, ON - Rail service, Canada"
+  },
+  {
+    "airport": "Noranda/Rouyn( YUY ), QC, Canada"
+  },
+  {
+    "airport": "Norman( YVQ ), Wells, NT, Canada"
+  },
+  {
+    "airport": "North( YYB ), Bay, ON, Canada"
+  },
+  {
+    "airport": "North( YNO ), Spirit Lake, ON, Canada"
+  },
+  {
+    "airport": "Norway( YNE ), House, MB, Canada"
+  },
+  {
+    "airport": "Ogoki( YOG ), ON, Canada"
+  },
+  {
+    "airport": "Old( YOC ), Crow, YT, Canada"
+  },
+  {
+    "airport": "Opapamiska( YBS ), Lake, ON, Canada"
+  },
+  {
+    "airport": "Oshawa( YOO ), ON, Canada"
+  },
+  {
+    "airport": "Ottawa( XDS ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Ottawa( YOW ), ON - International, Canada"
+  },
+  {
+    "airport": "Oxford( YOH ), House, MB, Canada"
+  },
+  {
+    "airport": "Pakuashipi( YIF ), QC, Canada"
+  },
+  {
+    "airport": "Pangnirtung( YXP ), NU, Canada"
+  },
+  {
+    "airport": "Parent( XFE ), QC - Rail service, Canada"
+  },
+  {
+    "airport": "Parksville( XPB ), BC - Rail service, Canada"
+  },
+  {
+    "airport": "Paulatuk( YPC ), NT, Canada"
+  },
+  {
+    "airport": "Peace( YPE ), River, AB, Canada"
+  },
+  {
+    "airport": "Peawanuck( YPO ), ON, Canada"
+  },
+  {
+    "airport": "Pembroke( YTA ), ON, Canada"
+  },
+  {
+    "airport": "Penticton( YYF ), BC, Canada"
+  },
+  {
+    "airport": "Perce( XFG ), QC - Rail service, Canada"
+  },
+  {
+    "airport": "Pickle( YPL ), Lake, ON, Canada"
+  },
+  {
+    "airport": "Pikangikum( YPM ), ON, Canada"
+  },
+  {
+    "airport": "Pointe-aux-Trembles( XPX ), QC - Rail service, Canada"
+  },
+  {
+    "airport": "Points( YNL ), North Landing, SK, Canada"
+  },
+  {
+    "airport": "Pond( YIO ), Inlet, NU, Canada"
+  },
+  {
+    "airport": "Poplar( YHP ), Hill, ON, Canada"
+  },
+  {
+    "airport": "Port( YPB ), Alberni, BC, Canada"
+  },
+  {
+    "airport": "Port( YZT ), Hardy, BC, Canada"
+  },
+  {
+    "airport": "Port( YHA ), Hope Simpson, NL, Canada"
+  },
+  {
+    "airport": "Port( YPN ), Meiner, QC, Canada"
+  },
+  {
+    "airport": "Postville( YSO ), NL, Canada"
+  },
+  {
+    "airport": "Povungnituk( YPX ), QC, Canada"
+  },
+  {
+    "airport": "Powell( YPW ), River, BC, Canada"
+  },
+  {
+    "airport": "Prescott( XII ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Prince( YPA ), Albert, SK, Canada"
+  },
+  {
+    "airport": "Prince( XDV ), George, BC - Rail service, Canada"
+  },
+  {
+    "airport": "Prince( YXS ), George, BC, Canada"
+  },
+  {
+    "airport": "Prince( XDW ), Rupert, BC - Rail service, Canada"
+  },
+  {
+    "airport": "Prince( YPR ), Rupert, BC - Digby Island Airport, Canada"
+  },
+  {
+    "airport": "Pukatawagan( XPK ), MB -, Canada"
+  },
+  {
+    "airport": "Qikiqtarjuaq( YVM ), NU, Canada"
+  },
+  {
+    "airport": "Qualicum( XQU ), BC, Canada"
+  },
+  {
+    "airport": "Quaqtaq( YQC ), QC, Canada"
+  },
+  {
+    "airport": "Quebec( YQB ), QC - International Airport, Canada"
+  },
+  {
+    "airport": "Quebec( YFZ ), QC - Charny Rail service, Canada"
+  },
+  {
+    "airport": "Quebec( XLK ), QC - Levis Rail service, Canada"
+  },
+  {
+    "airport": "Quebec( XLJ ), QC - Quebec Station Rail service, Canada"
+  },
+  {
+    "airport": "Quebec( XFY ), QC - Sainte-Foy Rail service, Canada"
+  },
+  {
+    "airport": "Quesnel( YQZ ), BC, Canada"
+  },
+  {
+    "airport": "Rae( YRA ), Lakes, NT, Canada"
+  },
+  {
+    "airport": "Rainbow( YOP ), Lake, AB, Canada"
+  },
+  {
+    "airport": "Rankin( YRT ), Inlet, NU, Canada"
+  },
+  {
+    "airport": "Red( YRL ), Lake, ON, Canada"
+  },
+  {
+    "airport": "Red( YRS ), Sucker Lake, MB, Canada"
+  },
+  {
+    "airport": "Regina( YQR ), SK, Canada"
+  },
+  {
+    "airport": "Repulse( YUT ), Bay, NU, Canada"
+  },
+  {
+    "airport": "Resolute( YRB ), NU, Canada"
+  },
+  {
+    "airport": "Rigolet( YRG ), NL, Canada"
+  },
+  {
+    "airport": "Rimouski( YXK ), QC, Canada"
+  },
+  {
+    "airport": "Riviere-a-Pierre( XRP ), QC - Rail service, Canada"
+  },
+  {
+    "airport": "Roberval( YRJ ), QC, Canada"
+  },
+  {
+    "airport": "Round( ZRJ ), Lake, ON, Canada"
+  },
+  {
+    "airport": "Rouyn/Noranda( YUY ), QC, Canada"
+  },
+  {
+    "airport": "Sachigo( ZPB ), Lake, ON, Canada"
+  },
+  {
+    "airport": "Sachs( YSY ), Harbour, NT, Canada"
+  },
+  {
+    "airport": "Sackville( XKV ), NB - Rail service, Canada"
+  },
+  {
+    "airport": "Saint( XIM ), Hyacinthe, QC - Rail service, Canada"
+  },
+  {
+    "airport": "Saint( YSJ ), John, NB, Canada"
+  },
+  {
+    "airport": "Saint( YYT ), Johns, NL, Canada"
+  },
+  {
+    "airport": "Saint( YSL ), Leonard, NB, Canada"
+  },
+  {
+    "airport": "Salluit( YZG ), QC, Canada"
+  },
+  {
+    "airport": "Sandy( ZSJ ), Lake, ON, Canada"
+  },
+  {
+    "airport": "Sanikiluaq( YSK ), NU, Canada"
+  },
+  {
+    "airport": "Sarnia( XDX ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Sarnia( YZR ), ON, Canada"
+  },
+  {
+    "airport": "Saskatoon( YXE ), SK, Canada"
+  },
+  {
+    "airport": "Sault( YAM ), Ste-Marie, ON, Canada"
+  },
+  {
+    "airport": "Schefferville( YKL ), QC, Canada"
+  },
+  {
+    "airport": "Senneterre( XFK ), QC - Rail service, Canada"
+  },
+  {
+    "airport": "Sept-Iles( YZV ), QC, Canada"
+  },
+  {
+    "airport": "Shamattawa( ZTM ), MB, Canada"
+  },
+  {
+    "airport": "Shawinigan( XFL ), QC - Rail service, Canada"
+  },
+  {
+    "airport": "Shawnigan( XFM ), BC - Rail service, Canada"
+  },
+  {
+    "airport": "Sioux( YXL ), Lookout, ON, Canada"
+  },
+  {
+    "airport": "Smith( YSH ), Falls, ON, Canada"
+  },
+  {
+    "airport": "Smithers( YYD ), BC, Canada"
+  },
+  {
+    "airport": "Snare( YFJ ), Lake, NT, Canada"
+  },
+  {
+    "airport": "South( XSI ), Indian Lake, MB, Canada"
+  },
+  {
+    "airport": "St( YAY ), Anthony, NL, Canada"
+  },
+  {
+    "airport": "St( YCM ), Catharines, ON, Canada"
+  },
+  {
+    "airport": "St( XIO ), Marys, ON - Rail service, Canada"
+  },
+  {
+    "airport": "Ste( YST ), Therese Point, MB, Canada"
+  },
+  {
+    "airport": "Stephenville( YJT ), NL, Canada"
+  },
+  {
+    "airport": "Stony( YSF ), Rapids, SK, Canada"
+  },
+  {
+    "airport": "Strathroy( XTY ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Sudbury( XDY ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Sudbury( YSB ), ON, Canada"
+  },
+  {
+    "airport": "Summer( SUR ), Beaver, ON, Canada"
+  },
+  {
+    "airport": "Swan( ZJN ), River, MB, Canada"
+  },
+  {
+    "airport": "Sydney( YQY ), NS, Canada"
+  },
+  {
+    "airport": "Tadoule( XTL ), Lake, MB, Canada"
+  },
+  {
+    "airport": "Taloyoak( YYH ), NU, Canada"
+  },
+  {
+    "airport": "Tasiujuaq( YTQ ), QC, Canada"
+  },
+  {
+    "airport": "Terrace( YXT ), BC, Canada"
+  },
+  {
+    "airport": "Tete-a-La( ZTB ), Baleine, QC, Canada"
+  },
+  {
+    "airport": "The( XDZ ), Pas, MB - Rail service, Canada"
+  },
+  {
+    "airport": "The( YQD ), Pas, MB, Canada"
+  },
+  {
+    "airport": "Thicket( YTD ), Portage, MB, Canada"
+  },
+  {
+    "airport": "Thompson( YTH ), MB, Canada"
+  },
+  {
+    "airport": "Thunder( YQT ), Bay, ON, Canada"
+  },
+  {
+    "airport": "Timmins( YTS ), ON, Canada"
+  },
+  {
+    "airport": "Tofino( YAZ ), BC,, Canada"
+  },
+  {
+    "airport": "Toronto( YBZ ), ON - Downtown Rail service, Canada"
+  },
+  {
+    "airport": "Toronto( XLQ ), ON - Guildwood Rail service, Canada"
+  },
+  {
+    "airport": "Toronto( YTZ ), ON - Toronto Island Airport, Canada"
+  },
+  {
+    "airport": "Toronto( YYZ ), ON - International, Canada"
+  },
+  {
+    "airport": "Truro( XLZ ), NS - Rail service, Canada"
+  },
+  {
+    "airport": "Tuktoyaktuk( YUB ), NT, Canada"
+  },
+  {
+    "airport": "Tulita/Fort( ZFN ), Norman, NT, Canada"
+  },
+  {
+    "airport": "Umiujag( YUD ), QC, Canada"
+  },
+  {
+    "airport": "Uranium( YBE ), City, SK, Canada"
+  },
+  {
+    "airport": "Val-d'Or( YVO ), QC, Canada"
+  },
+  {
+    "airport": "Vancouver( CXH ), BC - Coal Harbour, Canada"
+  },
+  {
+    "airport": "Vancouver( XEA ), BC - Rail service, Canada"
+  },
+  {
+    "airport": "Vancouver( YVR ), BC - International, Canada"
+  },
+  {
+    "airport": "Victoria( YWH ), BC - Inner Harbor, Canada"
+  },
+  {
+    "airport": "Victoria( YYJ ), BC - International, Canada"
+  },
+  {
+    "airport": "Wabush( YWK ), NL, Canada"
+  },
+  {
+    "airport": "Waskaganish( YKQ ), QC, Canada"
+  },
+  {
+    "airport": "Watford( XWA ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Webequie( YWP ), ON, Canada"
+  },
+  {
+    "airport": "Wemindji( YNC ), QC, Canada"
+  },
+  {
+    "airport": "Weymont( XFQ ), QC - Rail service, Canada"
+  },
+  {
+    "airport": "Wha( YLE ), Ti/Lac La Martre, NT, Canada"
+  },
+  {
+    "airport": "Whale( YXN ), Cove, NU, Canada"
+  },
+  {
+    "airport": "White( YWR ), River, ON, Canada"
+  },
+  {
+    "airport": "Whitehorse( YXY ), YT, Canada"
+  },
+  {
+    "airport": "Williams( YWM ), Harbour, NL, Canada"
+  },
+  {
+    "airport": "Williams( YWL ), Lake, BC, Canada"
+  },
+  {
+    "airport": "Windsor( XEC ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Windsor( YQG ), ON, Canada"
+  },
+  {
+    "airport": "Winnipeg( XEF ), MB - Rail service, Canada"
+  },
+  {
+    "airport": "Winnipeg( YWG ), MB - International, Canada"
+  },
+  {
+    "airport": "Wollaston( ZWL ), Lake, SK, Canada"
+  },
+  {
+    "airport": "Woodstock( XIP ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Wunnummin( WNN ), Lake, ON, Canada"
+  },
+  {
+    "airport": "Wyoming( XWY ), ON - Rail service, Canada"
+  },
+  {
+    "airport": "Yarmouth( YQI ), NS, Canada"
+  },
+  {
+    "airport": "Yellowknife( YZF ), NT, Canada"
+  },
+  {
+    "airport": "York( ZAC ), Landing, MB, Canada"
+  },
+
 
 		
 
