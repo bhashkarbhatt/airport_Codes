@@ -7,6 +7,423 @@
 			"airport":"Canada Airports Added"
 		},
 		{
+	"airport": "Birmingham International Airport ( BHM )"
+},
+{
+	"airport": "Dothan Regional Airport ( DHN )"
+},
+{
+	"airport": "Huntsville International Airport  ( HSV )"
+},
+{
+	"airport": "Montgomery ( MGM )"
+},
+{
+	"airport": "Mobile ( MOB )"
+},
+{
+	"airport": "Anchorage International Airport ( ANC )"
+},
+{
+	"airport": "Fairbanks International Airport ( FAI )"
+},
+{
+	"airport": "Juneau International Airport ( JNU )"
+},
+{
+	"airport": "Flagstaff ( FLG )"
+},
+{
+	"airport": "Phoenix Sky Harbor International Airport ( PHX ), Phoenix"
+},
+{
+	"airport": "Tucson International Airport ( TUS )"
+},
+{
+	"airport": "Yuma International Airport ( YUM )"
+},
+{
+	"airport": "Fayetteville ( FYV )"
+},
+{
+	"airport": "Little Rock National Airport ( LIT )"
+},
+{
+	"airport": "Northwest Arkansas Regional Airport  ( XNA )"
+},
+{
+	"airport": "Burbank ( BUR )"
+},
+{
+	"airport": "Fresno ( FAT )"
+},
+{
+	"airport": "Long Beach ( LGB )"
+},
+{
+	"airport": "Los Angeles International Airport  ( LAX )"
+},
+{
+	"airport": "Oakland  ( OAK )"
+},
+{
+	"airport": "Ontario  ( ONT )"
+},
+{
+	"airport": "Palm Springs  ( PSP )"
+},
+{
+	"airport": "Sacramento  ( SMF )"
+},
+{
+	"airport": "San Diego  ( SAN )"
+},
+{
+	"airport": "San Francisco International Airport  ( SFO )"
+},
+{
+	"airport": "San Jose ( SJC )"
+},
+{
+	"airport": "Santa Ana ( SNA )"
+},
+{
+	"airport": "Aspen ( ASE )"
+},
+{
+	"airport": "Colorado Springs ( COS )"
+},
+{
+	"airport": "Denver International Airport ( DEN )"
+},
+{
+	"airport": "Grand Junction ( GJT )"
+},
+{
+	"airport": "Pueblo ( PUB )"
+},
+{
+	"airport": "Hartford ( BDL )"
+},
+{
+	"airport": "Tweed New Haven ( HVN )"
+},
+{
+	"airport": "Dulles International Airport ( IAD ), Washington"
+},
+{
+	"airport": "Washington National Airport  ( DCA )"
+},
+{
+	"airport": "Daytona Beach  ( DAB )"
+},
+{
+	"airport": "Fort Lauderdale-Hollywood International Airport  ( FLL )"
+},
+{
+	"airport": "Fort Meyers ( RSW )"
+},
+{
+	"airport": "Jacksonville ( JAX )"
+},
+{
+	"airport": "Key West International Airport ( EYW )"
+},
+{
+	"airport": "Miami International Airport ( MIA )"
+},
+{
+	"airport": "Orlando ( MCO )"
+},
+{
+	"airport": "Pensacola ( PNS )"
+},
+{
+	"airport": "St. Petersburg ( PIE )"
+},
+{
+	"airport": "Sarasota ( SRQ )"
+},
+{
+	"airport": "Tampa ( TPA )"
+},
+{
+	"airport": "West Palm Beach ( PBI )"
+},
+{
+	"airport": "Panama City-Bay County International Airport ( PFN )"
+},
+{
+	"airport": "Atlanta Hartsfield International Airport ( ATL )"
+},
+{
+	"airport": "Augusta ( AGS )"
+},
+{
+	"airport": "Savannah ( SAV )"
+},
+{
+	"airport": "Hilo ( ITO )"
+},
+{
+	"airport": "Honolulu International Airport ( HNL )"
+},
+{
+	"airport": "Kahului ( OGG )"
+},
+{
+	"airport": "Kailua ( KOA )"
+},
+{
+	"airport": "Lihue ( LIH )"
+},
+{
+	"airport": "Boise ( BOI )"
+},
+{
+	"airport": "Chicago Midway Airport ( MDW )"
+},
+{
+	"airport": "O'Hare International Airport Airport ( ORD ), Chicago"
+},
+{
+	"airport": "Moline ( MLI )"
+},
+{
+	"airport": "Peoria ( PIA )"
+},
+{
+	"airport": "Evansville ( EVV )"
+},
+{
+	"airport": "Fort Wayne ( FWA )"
+},
+{
+	"airport": "Indianapolis International Airport ( IND )"
+},
+{
+	"airport": "South Bend ( SBN )"
+},
+{
+	"airport": "Cedar Rapids ( CID )"
+},
+{
+	"airport": "Des Moines  ( DSM )"
+},
+{
+	"airport": "Wichita ( ICT )"
+},
+{
+	"airport": "Lexington ( LEX )"
+},
+{
+	"airport": "Louisville ( SDF )"
+},
+{
+	"airport": "Baton Rouge ( BTR )"
+},
+{
+	"airport": "New Orleans International Airport ( MSY )"
+},
+{
+	"airport": "Shreveport ( SHV )"
+},
+{
+	"airport": "Augusta ( AUG )"
+},
+{
+	"airport": "Bangor ( BGR )"
+},
+{
+	"airport": "Portland ( PWM )"
+},
+{
+	"airport": "Baltimore ( BWI )"
+},
+{
+	"airport": "Logan International Airport ( BOS ), Boston"
+},
+{
+	"airport": "Hyannis ( HYA )"
+},
+{
+	"airport": "Nantucket  ( ACK )"
+},
+{
+	"airport": "Worcester  ( ORH )"
+},
+{
+	"airport": "Battlecreek  ( BTL )"
+},
+{
+	"airport": "Detroit Metropolitan Airport  ( DTW )"
+},
+{
+	"airport": "Detroit  ( DET )"
+},
+{
+	"airport": "Flint  ( FNT )"
+},
+{
+	"airport": "Grand Rapids  ( GRR )"
+},
+{
+	"airport": "Kalamazoo-Battle Creek International Airport ( AZO )"
+},
+{
+	"airport": "Lansing ( LAN )"
+},
+{
+	"airport": "Saginaw ( MBS )"
+},
+{
+	"airport": "Duluth ( DLH )"
+},
+{
+	"airport": "Minneapolis/St.Paul International Airport ( MSP )"
+},
+{
+	"airport": "Rochester ( RST )"
+},
+{
+	"airport": "Gulfport ( GPT )"
+},
+{
+	"airport": "Jackson ( JAN )"
+},
+{
+	"airport": "Kansas City ( MCI )"
+},
+{
+	"airport": "Lambert International Airport ( STL ), St Louis"
+},
+{
+	"airport": "Springfield ( SGF )"
+},
+{
+	"airport": "Billings ( BIL )"
+},
+{
+	"airport": "Lincoln ( LNK )"
+},
+{
+	"airport": "Omaha ( OMA )"
+},
+{
+	"airport": "Albany International Airport ( ALB )"
+},
+{
+	"airport": "Buffalo ( BUF )"
+},
+{
+	"airport": "Islip( ISP )"
+},
+{
+	"airport": "Alamogordo ( ALM )"
+},
+{
+	"airport": "Albuquerque International Airport ( ABQ )"
+},
+{
+	"airport": "Trenton ( TTN )"
+},
+{
+	"airport": "Newark International Airport ( EWR )"
+},
+{
+	"airport": "Atlantic City International Airport ( ACY )"
+},
+{
+	"airport": "Manchester ( MHT )"
+},
+{
+	"airport": "Reno-Tahoe International Airport ( RNO )"
+},
+{
+	"airport": "Las Vegas McCarran International Airport( LAS ), Las Vegas"
+},
+{
+	"airport": "John F Kennedy International Airport( JFK ), New York"
+},
+{
+	"airport": "La Guardia Airport( LGA )"
+},
+{
+	"airport": "Newburgh( SWF )"
+},
+{
+	"airport": "Rochester( ROC )"
+},
+{
+	"airport": "Syracuse( SYR )"
+},
+{
+	"airport": "Westchester( HPN )"
+}, 
+{
+	"airport": "Asheville( AVL )"
+}, 
+{
+	"airport": "Charlotte/Douglas International Airport ( CLT )"
+}, 
+{
+	"airport": "Fayetteville( FAY )"
+}, 
+{
+	"airport": "Greensboro( GSO )"
+}, 
+{
+	"airport": "Raleigh( RDU )"
+},  
+{
+	"airport": "Winston-Salem( INT )"
+}, 
+{
+	"airport": "Bismark( BIS )"
+}, 
+{
+	"airport": "Fargo( FAR )"
+}, 
+{
+	"airport": "Akron( CAK )"
+}, 
+{
+	"airport": "Cincinnati( CVG )"
+}, 
+{
+	"airport": "Cleveland( CLE )"
+}, 
+{
+	"airport": "Columbus( CMH )"
+}, 
+{
+	"airport": "Dayton( DAY )"
+}, 
+{
+	"airport": "Toledo( TOL )"
+}, 
+{
+	"airport": "Oklahoma City( OKC )"
+}, 
+{
+	"airport": "Tulsa( TUL )"
+}, 
+{
+	"airport": "Eugene( EUG )"
+}, 
+{
+	"airport": "Portland International Airport( PDX )"
+},    
+{
+	"airport": "Portland, Hillsboro Airport( HIO )"
+}, 
+{
+	"airport": "Salem( SLE )"
+}, 
+{
+	"airport": "Allentown( ABE )"
+}, 
+		{
 "airport": "Hartsfield–Jackson Atlanta International Airport( ATL ), Atlanta"
 },
 		{
