@@ -3,9 +3,103 @@
 	"total_pages": 30,
 	"total_results": 648,
 	"results": [	
+		
 		{
-			"airport":"Canada Airports Added"
-		},
+	"airport": "Erie ( ERI )"
+}, 
+{
+	"airport": "Harrisburg ( MDT )"
+}, 
+{
+	"airport": "Pittsburgh( PIT )"
+}, 
+{
+	"airport": "Scranton( AVP )"
+}, 
+{
+	"airport": "Providence - T.F. Green Airport( PVD )"
+}, 
+{
+	"airport": "Charleston ( CHS ), South Carolina, SC"
+}, 
+{
+	"airport": "Columbia ( CAE ), South Carolina, SC"
+}, 
+{
+	"airport": "Greenville( GSP ), South Carolina, SC"
+}, 
+{
+	"airport": "Myrtle Beach( MYR ), South Carolina, SC"
+}, 
+{
+	"airport": "Pierre( PIR ),South Dakota,  SD"
+}, 
+{
+	"airport": "Rapid City( RAP ),South Dakota,  SD"
+}, 
+{
+	"airport": "Sioux Falls( FSD ),South Dakota,  SD"
+}, 
+{
+	"airport": "Bristol( TRI ),Tennessee, TN"
+},
+{
+	"airport": "Chattanooga( CHA ),Tennessee, TN"
+},
+{
+	"airport": "Knoxville( TYS ),Tennessee, TN"
+},
+{
+	"airport": "Memphis( MEM ),Tennessee, TN"
+},
+{
+	"airport": "Nashville( BNA ),Tennessee, TN"
+},
+{
+	"airport": "Amarillo( AMA ),Texas, TX"
+},
+{
+	"airport": "Corpus Christi( CRP ),Texas, TX"
+},
+{
+	"airport": "Dallas Love Field Airport( DAL ),Texas, TX"
+},
+{
+	"airport": "El Paso( ELP ),Texas, TX"
+},
+{
+	"airport": "William B Hobby Airport( HOU ),Texas, TX"
+},
+{
+	"airport": "Lubbock ( LBB ),Texas, TX"
+},
+{
+	"airport": "San Antonio International Airport( SAT ),Texas, TX"
+},
+{
+	"airport": "Salt Lake City( SLC ),Utah, UT"
+},
+{
+	"airport": "Burlington( BTV ),Vermont, VT"
+},
+{
+	"airport": "Montpelier( MPV ),Vermont, VT"
+},
+{
+	"airport": "Rutland( RUT ),Vermont, VT"
+},	
+{
+	"airport": "Newport News( PHF ),Virginia, VA"
+},
+{
+	"airport": "Norfolk( ORF ),Virginia, VA"
+},
+{
+	"airport": "Richmond( RIC ),Virginia, VA"
+},
+{
+	"airport": "Roanoke( ROA ),Virginia, VA"
+},
 		{
 	"airport": "Birmingham International Airport ( BHM )"
 },
