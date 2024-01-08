@@ -3,6 +3,42 @@
 	"total_pages": 30,
 	"total_results": 648,
 	"results": [	
+		{
+	"airport": "Pasco/Tri-Cities Airport ( PSC ), Washington, WA"
+},
+{
+	"airport": "Spokane International Airport ( GEG ), Washington, WA"
+},
+{
+	"airport": "Charleston ( CRW ), West Virginia, WV"
+},
+{
+	"airport": "Clarksburg ( CKB ), West Virginia, WV"
+},
+{
+	"airport": "Huntington Tri-State Airport ( HTS ), West Virginia, WV"
+},
+{
+	"airport": "Green Bay ( GRB ), Wisconsin, WI"
+},
+{
+	"airport": "Madison ( MSN ), Wisconsin, WI"
+},
+{
+	"airport": "Milwaukee ( MKE ), Wisconsin, WI"
+},
+{
+	"airport": "Casper ( CPR ), Wyoming, WY"
+},
+{
+	"airport": "Cheyenne ( CYS ), Wyoming, WY"
+},
+{
+	"airport": "Jackson Hole ( JAC ), Wyoming, WY"
+},
+{
+	"airport": "Rock Springs ( RKS ), Wyoming, WY"
+},
 		
 		{
 	"airport": "Erie ( ERI )"
